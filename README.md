@@ -1,4 +1,4 @@
-# checkers
+# About this game
 
 
 **Checkers game**
