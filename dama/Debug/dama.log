@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\iagos\OneDrive\Área de Trabalho\Projetos\C++\dama\dama\main.cpp(5,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\iagos\OneDrive\Área de Trabalho\Projetos\C++\dama\dama\main.cpp(5,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  dama.vcxproj -> C:\Users\iagos\OneDrive\Área de Trabalho\Projetos\C++\dama\Debug\dama.exe
